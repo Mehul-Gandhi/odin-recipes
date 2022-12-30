@@ -1,0 +1,23 @@
+* {
+    background-color: lightgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: darkblue;
+}
+h3 {
+    color:blue;
+}
+ul {
+    list-style-type: square;
+}
+li {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#teriyaki {
+    width: auto;
+    height: 300px;
+}
